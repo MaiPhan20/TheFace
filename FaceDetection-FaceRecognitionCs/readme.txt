@@ -8,9 +8,3 @@ Thuật toán:
 	- Khi có ảnh khuôn mặt và label tên người thì chương trình sẽ training và save lại ảnh khuôn mặt
 
 	
-Nguồn: https://www.codeproject.com/Articles/239849/Multiple-face-detection-and-recognition-in-real
-	
-Mọi chi tiết liên hệ:
-https://www.facebook.com/groups/thigiacmaytinh
-https://www.facebook.com/vohungvi
-vohungvi@vohungvi.com
